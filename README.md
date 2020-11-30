@@ -24,7 +24,7 @@ Enjoy.
 # Contact and discord addresses
 
 - https://discord.gg/AxupRUC Fivem Script
-- https://discord.gg/k39HhH64NH RednM Script
+- https://discord.gg/k39HhH64NH RedM Script
 
 # Credits
  peassa
